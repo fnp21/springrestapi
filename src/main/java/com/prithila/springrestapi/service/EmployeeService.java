@@ -4,5 +4,5 @@
  */
 package com.prithila.springrestapi.service;
 
-public class EmployeeService IAccountService {
+public class EmployeeService {
 }
